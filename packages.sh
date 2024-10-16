@@ -5,3 +5,4 @@ go get github.com/joho/godotenv
 go get github.com/go-playground/validator/v10
 go get github.com/jackc/pgx/v5/stdlib
 go get github.com/stretchr/testify/assert
+go get github.com/google/uuid
